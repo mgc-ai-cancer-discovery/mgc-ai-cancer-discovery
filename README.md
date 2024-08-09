@@ -115,7 +115,7 @@ The per-slide biomarker score will be available in the specified output file `mg
 
 ## Authors and Acknowledgments
 
-- **Authors**: Grégoire Gessain, Ahmed-Amine Anzali, Marvin Lerousseau, Mathilde Bied, Daniel Stockholm, Anne Auperin, Kevin Mulder, Nicolas Signolle, Maria Eugenia Marques Da Costa, Antonin Marchais, Alexandre Sayadi, Daniela Weidner, Stefan Uderhardt, Sumanth Reddy Nakkireddy, Sophie Broutin, Charles-Antoine Dutertre, Pierre Busson, Thomas Walter, Alix Marhic, Antoine Moya-Plana, Johanne Guerlain, Ingrid Breuskin, Odile Casiraghi, Philippe Gorphe, Marion Classe, Jean-Yves Scoazec, Camille Blériot, Florent Ginhoux.
+- **Authors**: Grégoire Gessain, Ahmed-Amine Anzali, Marvin Lerousseau, Kevin Mulder, Mathilde Bied, Anne Auperin, Daniel Stockholm, Nicolas Signolle, Farah Sassi, Maria Eugenia Marques Da Costa, Antonin Marchais, Alexandre Sayadi, Daniela Weidner, Stefan Uderhardt, Quentin Blampey, Sumanth Reddy Nakkireddy, Sophie Broutin, Charles-Antoine Dutertre, Pierre Busson, Thomas Walter, Alix Marhic, Antoine Moya-Plana, Johanne Guerlain, Ingrid Breuskin, Odile Casiraghi, Philippe Gorphe, Marion Classe, Jean-Yves Scoazec, Camille Blériot, Florent Ginhoux.
 - **Correspondence**: Florent Ginhoux (florent.ginhoux@gustaveroussy.fr)
 
 ## License
