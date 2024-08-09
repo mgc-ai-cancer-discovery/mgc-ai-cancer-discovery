@@ -1,0 +1,10 @@
+pandas~=1.4.4
+opencv-python~=4.10.0.82
+numpy==1.23.1
+torch~=1.13.0
+albumentations~=1.2.1
+torchvision~=0.14.0
+pycocotools~=2.0.7
+staintools~=2.1.2
+spams
+tqdm

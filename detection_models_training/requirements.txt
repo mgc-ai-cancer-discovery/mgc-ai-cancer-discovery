@@ -1,0 +1,10 @@
+numpy==1.19.5
+torch==1.13
+torchvision==0.14.0
+opencv-python
+albumentations==1.2.1
+pandas
+pycocotools
+staintools
+spams
+openslide-python
